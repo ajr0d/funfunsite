@@ -9,11 +9,11 @@ ul {
     overflow: hidden;
 }
 
-li {
+.nav-li {
     float: right;
 }
 
-li a {
+.nav-li a {
     display: block;
     text-align: center;
     padding: 14px 16px;
@@ -21,6 +21,6 @@ li a {
     color: #000;
 }
 
-li a:hover {
+.nav-li a:hover {
     color: #020fff;
 }
